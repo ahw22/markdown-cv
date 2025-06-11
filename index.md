@@ -1,91 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andreas Zincke Lebenslauf
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Andreas Zincke
+
+Applikationsentwickler
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="andreas.zincke@gmx.at">andreas.zincke@gmx.at</a>
 </div>
 
+## Aktuell
 
-## Currently
+Ausbildung zum Applikationsentwickler mit Lehrabschlussprüfung.
 
-Standing on the shoulders of giants
+## Spezialisiert in
 
-### Specialized in
+### Sprachen
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Java, JavaScript, PHP
 
+### Frameworks und Libraries
 
-### Research interests
+Spring, Springboot, Lombok, Junit, Mockito, MockMVC, JPA
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Betriebsysteme
 
+Windows, Linux (Mint, Arch)
 
-## Education
+### Datenbanken
 
-`1654-1660`
-__The King's School, Grantham.__
+H2, MariaDB, MySQL
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Design Patterns
 
-- Sizar
+Builder, Singleton, Factory, Strategy
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Sonstiges
 
-- Fellow
+Clean Code Principles, KISS, DRY, Open-Closed Principle, Single Responsibility
 
+## Ausbildung
 
+`2018-dato`
+**Studium TU Graz und Berufliche Neuausrichtung**, Graz
 
-## Awards
+`2010-2015`
+**Höhere Lehranstalt für Tourismus**, Bad Leonfelden
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+- Ausbildung zum Touristikkaufmann und Jungbarkeeper
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`11/2017-9/2018`
+**Donhauser GmbH**, Linz
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Barkeeper
+- Event-Servicekraft
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: June 2025 -->
