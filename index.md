@@ -61,7 +61,7 @@ Clean Code Principles, KISS, DRY, Open-Closed Principle, Single Responsibility
 **VS Leonding**, Leonding
 
 `2002-2003`
-**VS Goldwörth**
+**VS Goldwörth**, Goldwörth
 
 ## Berufserfahrung
 
@@ -93,7 +93,7 @@ Clean Code Principles, KISS, DRY, Open-Closed Principle, Single Responsibility
 
 - Praktikum Kellner
 
-`7/2012-9/2012~
+`7/2012-9/2012`
 **Hotel Restaurant Häupl**, Seewalchen am Attersee
 
 - Praktikum Koch
