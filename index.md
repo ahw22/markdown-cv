@@ -14,7 +14,7 @@ Idlhofgasee 48, Tür 26, 8020 Graz
 
 ## Aktuell
 
-Ausbildung zum Applikationsentwickler mit Lehrabschlussprüfung.
+Ausbildung zum Applikationsentwickler mit Lehrabschlussprüfung
 
 ## Spezialisiert in
 
@@ -45,7 +45,9 @@ Clean Code Principles, KISS, DRY, Open-Closed Principle, Single Responsibility
 ## Ausbildung
 
 `2018-dato`
-**Studium TU Graz und Berufliche Neuausrichtung**, Graz
+**Studium TU Graz und Berufliche und Medizinische Rehabilitation**, Graz
+
+- Studium Software Engineerung and Management (abgebrochen)
 
 `2010-2015`
 **Höhere Lehranstalt für Tourismus**, Bad Leonfelden
@@ -58,7 +60,7 @@ Clean Code Principles, KISS, DRY, Open-Closed Principle, Single Responsibility
 - Bell' Arti (Musikzweig)
 
 `2003-2006`
-**VS Leonding**, Leonding
+**VS Leonding**, Leonding <br>
 
 `2002-2003`
 **VS Goldwörth**, Goldwörth
