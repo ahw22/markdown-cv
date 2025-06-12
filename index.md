@@ -8,7 +8,7 @@ title: Andreas Zincke Lebenslauf
 Applikationsentwickler
 
 <div id="webaddress">
-<a href="andreas.zincke@gmx.at">andreas.zincke@gmx.at</a>
+<a href="andreas.zincke@gmx.at">andreas.zincke@gmx.at</a><br>
 Idlhofgasee 48, Tür 26, 8020 Graz
 </div>
 
@@ -103,19 +103,21 @@ Clean Code Principles, KISS, DRY, Open-Closed Principle, Single Responsibility
 
 ## About Me
 
-### Persönliche Angaben
 
-**Geburtsdatum**
+### Geburtsdatum
+
 28.06.1996
 
-**Staatsangehörigkeit**
+### Staatsangehörigkeit
+
 Österreich
 
-**Sprachkentnisse**
-Deutsch - Muttersprache
-Englisch - C1
+### Sprachkentnisse
 
-**Kompetenzen**
+Deutsch (Muttersprache), Englisch (C1)
+
+### Kompetenzen
+
 Teamfähigkeit,
 Hilfsbereitschaft,
 Genauigkeit,
@@ -124,7 +126,8 @@ Anpassungsfähigkeit,
 Diskretion und
 Lernbereitschaft
 
-**Hobbies**
+### Hobbies
+
 Lesen, Musik hören, Tabletop RPGs, Gaming, Community Organisation, Anime
 
 <!-- ### Footer
