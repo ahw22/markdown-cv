@@ -61,13 +61,15 @@ Clean Code Principles, KISS, DRY, Open-Closed Principle, Single Responsibility
 
 Dieses Projekt dient dazu, OOP- und Software-Engineering-Prinzipien zu üben.
 Eine robuste, objektorientierte Implementierung des klassischen Strategiespiels Schiffe versenken, erstellt mit modernem Java 21. Fordern Sie den Computer in dieser konsolenbasierten taktischen Simulation heraus.
+Verwendete Technologien: Java 21, JUnit, Mockito, MockMVC, JPA
+
 
 ### Homelab
 
 <a href="https://github.com/ahw22/homelab">GitHub</a>
 
 Eine Sammlung von selbst gehosteten Diensten, die mit Docker Compose orchestriert werden.
-Verwendete Technologien: traefik Reverse-Proxy, Authelia Authentifizierung, Portainer, Docker, Docker Compose, Linux (Arch)
+Verwendete Technologien: traefik Reverse-Proxy, Authelia Authentifizierung, Docker, Docker Compose, Linux (Arch)
 
 ### JRM (Job Releationship Manager)
 
