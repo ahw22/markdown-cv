@@ -8,14 +8,18 @@ title: Andreas Zincke Lebenslauf
 Applikationsentwickler
 
 <div id="webaddress">
-<a href="andreas.zincke@gmx.at">andreas.zincke@gmx.at</a>
-<a href="https://github.com/ahw22">https://github.com/ahw22</a>
-Graz, Steiermark
+<i class="fa-solid fa-envelope" aria-hidden="true"></i>
+<a href="mailto:andreas.zincke@gmx.at">andreas.zincke@gmx.at</a>
 </div>
+<div id="webaddress">
+<i class="fa-brands fa-github" aria-hidden="true"></i>
+<a href="https://github.com/ahw22">https://github.com/ahw22</a>
+</div>
+Graz, Steiermark
 
 ## Aktuell
 
-Ausbildung zum Applikationsentwickler mit Lehrabschlussprüfung.
+Ausbildung zum Applikationsentwickler mit Fokus auf Java.
 
 ## Spezialisiert in
 
@@ -25,7 +29,7 @@ Java, JavaScript, PHP
 
 ### Frameworks und Libraries
 
-Spring, Springboot, Lombok, Junit, Mockito, MockMVC, JPA
+Spring Boot, Lombok, JUnit, Mockito, MockMVC, JPA
 
 ### Betriebsysteme
 
@@ -39,82 +43,57 @@ H2, MariaDB, MySQL
 
 Builder, Singleton, Factory, Strategy, Decorator, Observer
 
-### Sonstiges
+### Methoden & Konzepte
 
-Clean Code Principles, KISS, DRY, Open-Closed Principle, Single Responsibility
+Clean Code Principles, SOLID, KISS, DRY
 
 ## Ausbildung
 
-`2018-dato`
-**Studium TU Graz und Berufliche Neuausrichtung**, Graz
+`2018 - heute`
+**Berufliche Neuausrichtung & Studium**, Graz
+Fokus: Applikationsentwicklung (Java Eco-System) & Studium TU Graz (abgebrochen)
 
-`2010-2015`
+`2010 - 2015`
 **Höhere Lehranstalt für Tourismus**, Bad Leonfelden
-
-- Ausbildung zum Touristikkaufmann und Jungbarkeeper
+Abschluss: Matura & Diplomierter Touristikkaufmann
 
 ## Projekte
 
-### Java-battleship-oop
-
+### Battleship (OOP Showcase)
+Konsolenbasierte Implementierung des Spieleklassikers mit Fokus auf Clean Code und Design Patterns. Robuste Architektur mit einer KI-Gegner-Logik.
+**Stack:** Java 21, JUnit, Mockito, MockMVC, JPA
 <a href="https://github.com/ahw22/Java-battleship-oop">GitHub</a>
 
-Dieses Projekt dient dazu, OOP- und Software-Engineering-Prinzipien zu üben.
-Eine robuste, objektorientierte Implementierung des klassischen Strategiespiels Schiffe versenken, erstellt mit modernem Java 21. Fordern Sie den Computer in dieser konsolenbasierten taktischen Simulation heraus.
-Verwendete Technologien: Java 21, JUnit, Mockito, MockMVC, JPA
-
-
 ### Homelab
-
+Orchestrierung einer "Self-Hosted" Infrastruktur für private Dienste. Fokus auf Sicherheit und Automatisierung.
+**Stack:** Docker Compose, Traefik (Reverse Proxy), Authelia (SSO), Linux (Arch)
 <a href="https://github.com/ahw22/homelab">GitHub</a>
 
-Eine Sammlung von selbst gehosteten Diensten, die mit Docker Compose orchestriert werden.
-Verwendete Technologien: traefik Reverse-Proxy, Authelia Authentifizierung, Docker, Docker Compose, Linux (Arch)
-
-### JRM (Job Releationship Manager)
-
+### JRM - Job Relationship Manager
+Webanwendung zur strukturierten Verwaltung von Bewerbungsprozessen.
+**Stack:** Spring Boot, JPA, Thymeleaf/HTML, H2/MariaDB
 <a href="https://github.com/ahw22/jrm">GitHub</a>
-
-Eine Webanwendung zur Verwaltung von Jobbewerbungen. Sehr simples WebGUI und Backend mit Springboot und JPA.
 
 ## Berufserfahrung
 
 `11/2017-9/2018`
 **Donhauser GmbH**, Linz
-
 - Barkeeper
 - Event-Servicekraft
 
 `6/2016`
-**Kinderhotell Ellmauhof**, Hinterglemm
+**Kinderhotel Ellmauhof**, Hinterglemm
 - Jungkoch
 
 `9/2015-2/2016`
 **Teekönig - Firma Büchel**, Linz
+- Assistent der Geschäftsführung (Organisation, Verkauf)
 
-- Assistent Geschäftsführung
-- Verkauf
-
-`7/2014-9/2014`
-**Motel-One Salzburg Süd**, Salzburg
-
-- Praktikum Rezeption, Organisation
-- Food & Beverages, Bar
-
-`7/2013-9/2013`
-**Restaurant das Anton**, Linz
-
-- Praktikum Kellner
-
-`7/2012-9/2012`
-**Hotel Restaurant Häupl**, Seewalchen am Attersee
-
-- Praktikum Koch
-
-`7/2011-9/2011`
-**Café Restaurant Burg Landskron**, Landskron
-
-- Praktikum Koch
+`2011-2014`
+**Diverse Praktika (Tourismus & Gastronomie)**
+- Motel-One Salzburg Süd (Rezeption, Bar)
+- Restaurant das Anton, Linz (Service)
+- Hotel Restaurant Häupl & Burg Landskron (Küche)
 
 ## About Me
 ### Geburtsdatum
@@ -124,13 +103,15 @@ Eine Webanwendung zur Verwaltung von Jobbewerbungen. Sehr simples WebGUI und Bac
 Österreich
 
 ### Sprachkentnisse
-Deutsch (Muttersprache), Englisch (C1)
+Deutsch (Muttersprache), Englisch (C1, fließend in Wort und Schrift)
 
 ### Kompetenzen
-Teamfähigkeit, Hilfsbereitschaft, Genauigkeit, Flexibilität, Anpassungsfähigkeit, Diskretion und Lernbereitschaft
+**Arbeitsweise:** Problemlösungskompetenz, Genauigkeit
+**Soziales:** Teamfähigkeit, Hilfsbereitschaft, Diskretion
+**Mindset:** Lernfreudigkeit, Flexibilität
 
-### Hobbies
-Lesen, Vorträge anhören, Musik hören, Tabletop RPGs, Gaming, Community Organisation
+### Interessen
+Fachliteratur & Vorträge, Tabletop RPGs, Strategische Spiele, Community Management, Musik
 
 
 <!-- ### Footer
