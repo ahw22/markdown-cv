@@ -9,7 +9,7 @@ Applikationsentwickler
 
 <div id="webaddress">
 <i class="fa-solid fa-envelope" aria-hidden="true"></i>
-<a href="mailto:andreas.zincke@gmx.at">andreas.zincke@gmx.at</a>
+<a href="andreas.zincke@gmx.at">andreas.zincke@gmx.at</a>
 </div>
 <div id="webaddress">
 <i class="fa-brands fa-github" aria-hidden="true"></i>
@@ -62,17 +62,23 @@ Clean Code Principles, SOLID, KISS, DRY
 ### Battleship (OOP Showcase)
 Konsolenbasierte Implementierung des Spieleklassikers mit Fokus auf Clean Code und Design Patterns. Robuste Architektur mit einer KI-Gegner-Logik.
 **Stack:** Java 21, JUnit, Mockito, MockMVC, JPA
+<div id="webaddress">
 <a href="https://github.com/ahw22/Java-battleship-oop">https://github.com/ahw22/Java-battleship-oop</a>
+</div>
 
 ### Homelab
 Orchestrierung einer "Self-Hosted" Infrastruktur für private Dienste. Fokus auf Sicherheit und Automatisierung.
 **Stack:** Docker Compose, Traefik (Reverse Proxy), Authelia (SSO), Linux (Arch)
+<div id="webaddress">
 <a href="https://github.com/ahw22/homelab">https://github.com/ahw22/homelab</a>
+</div>
 
 ### JRM - Job Relationship Manager
 Webanwendung zur strukturierten Verwaltung von Bewerbungsprozessen.
 **Stack:** Spring Boot, JPA, Thymeleaf/HTML, H2/MariaDB
+<div id="webaddress">
 <a href="https://github.com/ahw22/jrm">https://github.com/ahw22/jrm</a>
+</div>
 
 ## Berufserfahrung
 
