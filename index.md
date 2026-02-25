@@ -62,17 +62,17 @@ Clean Code Principles, SOLID, KISS, DRY
 ### Battleship (OOP Showcase)
 Konsolenbasierte Implementierung des Spieleklassikers mit Fokus auf Clean Code und Design Patterns. Robuste Architektur mit einer KI-Gegner-Logik.
 **Stack:** Java 21, JUnit, Mockito, MockMVC, JPA
-<a href="https://github.com/ahw22/Java-battleship-oop">GitHub</a>
+<a href="https://github.com/ahw22/Java-battleship-oop">https://github.com/ahw22/Java-battleship-oop</a>
 
 ### Homelab
 Orchestrierung einer "Self-Hosted" Infrastruktur für private Dienste. Fokus auf Sicherheit und Automatisierung.
 **Stack:** Docker Compose, Traefik (Reverse Proxy), Authelia (SSO), Linux (Arch)
-<a href="https://github.com/ahw22/homelab">GitHub</a>
+<a href="https://github.com/ahw22/homelab">https://github.com/ahw22/homelab</a>
 
 ### JRM - Job Relationship Manager
 Webanwendung zur strukturierten Verwaltung von Bewerbungsprozessen.
 **Stack:** Spring Boot, JPA, Thymeleaf/HTML, H2/MariaDB
-<a href="https://github.com/ahw22/jrm">GitHub</a>
+<a href="https://github.com/ahw22/jrm">https://github.com/ahw22/jrm</a>
 
 ## Berufserfahrung
 
