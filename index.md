@@ -29,15 +29,15 @@ Java, JavaScript, PHP
 
 ### Frameworks und Libraries
 
-Spring Boot, Lombok, JUnit, Mockito, MockMVC, JPA
+Spring Boot, Lombok, JUnit, Mockito, MockMVC, JPA, Docker, Docker Compose
 
 ### Betriebsysteme
 
-Windows, Linux (Mint, Arch)
+Windows, Linux (Mint, Arch, Ubuntu)
 
 ### Datenbanken
 
-H2, MariaDB, MySQL
+H2, MariaDB, MySQL, MongoDB
 
 ### Design Patterns
 
@@ -51,11 +51,11 @@ Clean Code Principles, SOLID, KISS, DRY
 
 `2018 - heute`
 **Berufliche Neuausrichtung & Studium**, Graz
-Fokus: Applikationsentwicklung (Java Eco-System) & Studium TU Graz (abgebrochen)
+- Fokus: Applikationsentwicklung (Java Eco-System) & Studium TU Graz (abgebrochen)
 
 `2010 - 2015`
 **Höhere Lehranstalt für Tourismus**, Bad Leonfelden
-Abschluss: Matura & Diplomierter Touristikkaufmann
+- Abschluss: Matura & Diplomierter Touristikkaufmann
 
 ## Projekte
 
