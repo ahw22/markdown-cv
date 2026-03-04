@@ -51,7 +51,7 @@ Clean Code Principles, SOLID, KISS, DRY
 
 `2018 - heute`
 **Berufliche Neuausrichtung & Studium**, Graz
-- Fokus: Applikationsentwicklung (Java Eco-System) & Studium TU Graz (abgebrochen)
+- Fokus: Applikationsentwicklung & Studium TU Graz (abgebrochen)
 
 `2010 - 2015`
 **Höhere Lehranstalt für Tourismus**, Bad Leonfelden
