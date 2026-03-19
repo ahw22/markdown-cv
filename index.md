@@ -59,6 +59,13 @@ Clean Code Principles, SOLID, KISS, DRY
 
 ## Projekte
 
+### IterativePrisonersDilemma
+
+<a href="https://github.com/ahw22/IterativePrisonersDilemma">GitHub</a>
+
+Ein Simulator für das Iterierte Gefangenendilemma, inspiriert von Robert Axelrods Turnier. Zur Vertiefung von JavaFX-Kenntnissen und spieltheoretischen Konzepten. Strategien treten in Round-Robin-Turnieren gegeneinander an, mit konfigurierbaren Runden, Rauschsimulation und Visualisierung der Ergebnisse.
+Verwendete Technologien: Java, JavaFX
+
 ### Battleship (OOP Showcase)
 Konsolenbasierte Implementierung des Spieleklassikers mit Fokus auf Clean Code und Design Patterns. Robuste Architektur mit einer KI-Gegner-Logik.
 **Stack:** Java 21, JUnit, Mockito, MockMVC, JPA
@@ -122,4 +129,4 @@ Fachliteratur & Vorträge, Tabletop RPGs, Strategische Spiele, Community Managem
 
 <!-- ### Footer
 
-Last updated: February 2025 -->
+Last updated: March 2025 -->
