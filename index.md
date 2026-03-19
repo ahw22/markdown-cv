@@ -55,6 +55,13 @@ Clean Code Principles, KISS, DRY, Open-Closed Principle, Single Responsibility
 
 ## Projekte
 
+### IterativePrisonersDilemma
+
+<a href="https://github.com/ahw22/IterativePrisonersDilemma">GitHub</a>
+
+Ein Simulator für das Iterierte Gefangenendilemma, inspiriert von Robert Axelrods Turnier. Zur Vertiefung von JavaFX-Kenntnissen und spieltheoretischen Konzepten. Strategien treten in Round-Robin-Turnieren gegeneinander an, mit konfigurierbaren Runden, Rauschsimulation und Visualisierung der Ergebnisse.
+Verwendete Technologien: Java, JavaFX
+
 ### Java-battleship-oop
 
 <a href="https://github.com/ahw22/Java-battleship-oop">GitHub</a>
