@@ -71,7 +71,7 @@ Ein Simulator für das Iterierte Gefangenendilemma, inspiriert von Robert Axelro
 <a href="https://github.com/ahw22/IterativePrisonersDilemma">https://github.com/ahw22/IterativePrisonersDilemma</a>
 </div>
 
-### Battleship (OOP Showcase)
+### Battleship (OOP Übung)
 Konsolenbasierte Implementierung des Spieleklassikers mit Fokus auf Clean Code und Design Patterns. Robuste Architektur mit einer KI-Gegner-Logik.
 **Stack:** Java 21, JUnit, Mockito, MockMVC, JPA
 <div id="webaddress">
