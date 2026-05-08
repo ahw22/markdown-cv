@@ -49,13 +49,17 @@ Clean Code Principles, SOLID, KISS, DRY
 
 ## Ausbildung
 
-`2018 - heute`
-**Berufliche Neuausrichtung & Studium**, Graz
-- Fokus: Applikationsentwicklung & Studium TU Graz (abgebrochen)
+`2024 - heute`
+**Ausbildung zum Applikationsentwickler**, BBRZ Kapfenberg
+- Fokus: Applikationsentwicklung, Abschluss im Herbst 2026
+
+`2018 - 2023`
+**Studium Software Engineering and Management**, TU Graz
+- Softwareentwicklung und Management, abgebrochenes Studium
 
 `2010 - 2015`
 **Höhere Lehranstalt für Tourismus**, Bad Leonfelden
-- Abschluss: Matura & Diplomierter Touristikkaufmann
+- Matura & Diplomierter Touristikkaufmann
 
 ## Projekte
 
