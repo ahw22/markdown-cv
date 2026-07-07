@@ -69,7 +69,7 @@ Clean Code Principles, SOLID, KISS, DRY
 
 ## Projekte
 
-### IterativePrisonersDilemma
+### Iterative Prisoners Dilemma
 
 Ein Simulator für das Iterierte Gefangenendilemma, inspiriert von Robert Axelrods Turnier. Zur Vertiefung von JavaFX-Kenntnissen und spieltheoretischen Konzepten. Strategien treten in Round-Robin-Turnieren gegeneinander an, mit konfigurierbaren Runden, Rauschsimulation und Visualisierung der Ergebnisse.
 **Stack:** Java, JavaFX
