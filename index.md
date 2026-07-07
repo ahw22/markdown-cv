@@ -9,23 +9,29 @@ Applikationsentwickler
 
 <div id="webaddress">
 <i class="fa-solid fa-envelope" aria-hidden="true"></i>
-<a href="andreas.zincke@gmx.at">andreas.zincke@gmx.at</a>
+<a href="mailto:andreas.zincke@gmx.at">andreas.zincke@gmx.at</a>
 </div>
+{% if site.data.personal %}
+<div id="webaddress">
+<i class="fa-solid fa-phone" aria-hidden="true"></i>
+<a href="tel:{{ site.data.personal.telefon | remove: ' ' | remove: '/' }}">{{ site.data.personal.telefon }}</a>
+</div>
+{% endif %}
 <div id="webaddress">
 <i class="fa-brands fa-github" aria-hidden="true"></i>
 <a href="https://github.com/ahw22">https://github.com/ahw22</a>
 </div>
-Graz, Steiermark
+Graz, Steiermark, am {{ site.time | date: "%d.%m.%Y" }}
 
-## Aktuell
+## Über mich
 
-Ausbildung zum Applikationsentwickler mit Fokus auf Java.
+Angehender Applikationsentwickler (LAP Herbst 2026, BBRZ Kapfenberg) mit Fundament aus dem Software-Engineering-Studium an der TU Graz und Fokus auf Java/Spring Boot. Zuvor mehrere Jahre in der Gastronomie als Koch, Kellner und Barkeeper tätig — zuletzt im Linzer Musiktheater, wo ich neue Mitarbeiter:innen mit einschulte und regelmäßig eigenverantwortlich alleine Dienst hatte. Aus dieser Zeit sowie einigen Catering-Events bringe ich Teamfähigkeit unter Zeitdruck, Verlässlichkeit und Kundenorientierung mit. Fachlich vertiefe ich mich laufend durch eigene Projekte (Homelab, Spring-Boot-Webanwendungen).
 
 ## Spezialisiert in
 
 ### Sprachen
 
-Java, JavaScript, PHP
+Java, PHP, JavaScript, HTML/CSS, SQL
 
 ### Frameworks und Libraries
 
@@ -96,8 +102,9 @@ Webanwendung zur strukturierten Verwaltung von Bewerbungsprozessen.
 
 `11/2017-9/2018`
 **Donhauser GmbH**, Linz
-- Barkeeper
-- Event-Servicekraft
+- Barkeeper im Linzer Musiktheater
+- Einschulung neuer Mitarbeiter:innen, regelmäßig eigenverantwortliche Alleindienste
+- Event-Servicekraft (Catering-Events)
 
 `6/2016`
 **Kinderhotel Ellmauhof**, Hinterglemm
@@ -114,11 +121,13 @@ Webanwendung zur strukturierten Verwaltung von Bewerbungsprozessen.
 - Hotel Restaurant Häupl & Burg Landskron (Küche)
 
 ## About Me
+{% if site.data.personal %}
 ### Geburtsdatum
-28.06.1996
+{{ site.data.personal.geburtsdatum }}
 
 ### Staatsangehörigkeit
-Österreich
+{{ site.data.personal.staatsangehoerigkeit }}
+{% endif %}
 
 ### Sprachkentnisse
 Deutsch (Muttersprache), Englisch (C1, fließend in Wort und Schrift)
@@ -129,9 +138,9 @@ Deutsch (Muttersprache), Englisch (C1, fließend in Wort und Schrift)
 **Mindset:** Lernfreudigkeit, Flexibilität
 
 ### Interessen
-Fachliteratur & Vorträge, Tabletop RPGs, Strategische Spiele, Community Management, Musik
+Fachliteratur & Vorträge, Tabletop RPGs, Gaming, Strategische Spiele, Community Management, Musik
 
 
 <!-- ### Footer
 
-Last updated: March 2025 -->
+Last updated: July 2026 -->
